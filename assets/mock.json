@@ -1,0 +1,256 @@
+{
+    "properties": {
+        "-Mq3Xe9h7OAY6Qq3FpKz": {
+            "name": "Apartamento com Vista para o Parque",
+            "description": "Espaçoso apartamento de luxo com vista panorâmica para o Parque da Cidade.",
+            "location": "Rua das Flores, 123",
+            "price": 1000000.00,
+            "images": [
+                "https://images.pexels.com/photos/6370164/pexels-photo-6370164.jpeg",
+                "https://images.pexels.com/photos/11986021/pexels-photo-11986021.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "area": 200,
+                "amenities": ["piscina", "academia", "salão de festas"]
+            },
+            "seller": {
+                "name": "João Silva",
+                "contact": "+55 123 456 7890",
+                "email": "joao.silva@example.com"
+            }
+        },
+        "-Lz9o2q6Rpnv7YsWUDjf": {
+            "name": "Casa Moderna com Estúdio de Arte",
+            "description": "Casa contemporânea com estúdio de arte, ideal para artistas.",
+            "location": "Avenida Central, 456",
+            "price": 750000.00,
+            "images": [
+                "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg",
+                "https://images.pexels.com/photos/6899356/pexels-photo-6899356.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "area": 200,
+                "amenities": ["piscina", "academia", "salão de festas"]
+            },
+            "seller": {
+                "name": "Maria Oliveira",
+                "contact": "+55 987 654 3210",
+                "email": "maria.oliveira@example.com"
+            }
+        },
+        "-Kp4w1n8gVz2rUoD9BqE": {
+            "name": "Terreno para Construção de Restaurante",
+            "description": "Terreno espaçoso ideal para construção de restaurante na região central.",
+            "location": "Rua dos Sabores, 789",
+            "price": 500000.00,
+            "images": [
+                "https://images.pexels.com/photos/9666115/pexels-photo-9666115.jpeg",
+                "https://images.pexels.com/photos/2476399/pexels-photo-2476399.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "area": 200,
+                "amenities": ["piscina", "academia", "salão de festas"]
+            },
+            "seller": {
+                "name": "Pedro Santos",
+                "contact": "+55 321 654 0987",
+                "email": "pedro.santos@example.com"
+            }
+        },
+        "-Jh7Tc5zPqVx9AfG3LnR": {
+            "name": "Loja Comercial no Centro Cultural",
+            "description": "Espaço comercial amplo e bem localizado no Centro Cultural.",
+            "location": "Avenida das Artes, 987",
+            "price": 900000.00,
+            "images": [
+                "https://images.pexels.com/photos/5212403/pexels-photo-5212403.jpeg",
+                "https://images.pexels.com/photos/5904418/pexels-photo-5904418.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "area": 200,
+                "amenities": ["piscina", "academia", "salão de festas"]
+            },
+            "seller": {
+                "name": "Ana Santos",
+                "contact": "+55 456 789 0123",
+                "email": "ana.santos@example.com"
+            }
+        },
+        "-Gr2Lx9pQaZ6sVtK8HmY": {
+            "name": "Loft Urbano na Praça dos Artesãos",
+            "description": "Loft contemporâneo em uma das áreas mais vibrantes da cidade.",
+            "location": "Rua dos Artesãos, 456",
+            "price": 600000.00,
+            "images": [
+                "https://images.pexels.com/photos/6045336/pexels-photo-6045336.jpeg",
+                "https://images.pexels.com/photos/2973323/pexels-photo-2973323.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "area": 200,
+                "amenities": ["piscina", "academia", "salão de festas"]
+            },
+            "seller": {
+                "name": "Carlos Silva",
+                "contact": "+55 789 012 3456",
+                "email": "carlos.silva@example.com"
+            }
+        },
+        "-Fb0Zk7sPwY3xQmV6JpN": {
+            "name": "Sobrado Histórico no Centro Histórico",
+            "description": "Sobrado restaurado com detalhes históricos preservados.",
+            "location": "Rua das Memórias, 321",
+            "price": 850000.00,
+            "images": [
+                "https://images.pexels.com/photos/18109400/pexels-photo-18109400",
+                "https://images.pexels.com/photos/417344/pexels-photo-417344.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "area": 200,
+                "amenities": ["piscina", "academia", "salão de festas"]
+            },
+            "seller": {
+                "name": "Fernanda Oliveira",
+                "contact": "+55 012 345 6789",
+                "email": "fernanda.oliveira@example.com"
+            }
+        },
+        "-Dt5Rp4qOxZ8lNmW2SqE": {
+            "name": "Cobertura de Luxo com Vista para o Rio",
+            "description": "Cobertura luxuosa com vista panorâmica para o rio e a cidade.",
+            "location": "Avenida das Águas, 741",
+            "price": 1500000.00,
+            "images": [
+                "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg",
+                "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "area": 200,
+                "amenities": ["piscina", "academia", "salão de festas"]
+            },
+            "seller": {
+                "name": "Gabriel Santos",
+                "contact": "+55 789 012 3456",
+                "email": "gabriel.santos@example.com"
+            }
+        },
+        "-Dp7Rq2pAwY4xQmV5JlN": {
+            "name": "Apartamento com Vista para o Mar",
+            "description": "Apartamento moderno com vista deslumbrante para o mar.",
+            "location": "Avenida Beira-Mar, 1234",
+            "price": 1200000.00,
+            "images": [
+                "https://images.pexels.com/photos/6775268/pexels-photo-6775268.jpeg",
+                "https://images.pexels.com/photos/2347356/pexels-photo-2347356.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "area": 180,
+                "amenities": ["piscina", "academia", "quadra de tênis"]
+            },
+            "seller": {
+                "name": "Lucas Oliveira",
+                "contact": "+55 123 456 7890",
+                "email": "lucas.oliveira@example.com"
+            }
+        },
+        "-Ep6Zx1tPqVz5sQo7KmY": {
+            "name": "Casa de Campo com Piscina",
+            "description": "Casa espaçosa em uma área rural com piscina privativa.",
+            "location": "Estrada dos Sonhos, s/n",
+            "price": 900000.00,
+            "images": [
+                "https://images.pexels.com/photos/6129989/pexels-photo-6129989.jpeg",
+                "https://images.pexels.com/photos/6129987/pexels-photo-6129987.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 4,
+                "bathrooms": 3,
+                "area": 250,
+                "amenities": ["piscina", "churrasqueira", "jardim"]
+            },
+            "seller": {
+                "name": "Paulo Silva",
+                "contact": "+55 987 654 3210",
+                "email": "paulo.silva@example.com"
+            }
+        },
+        "-Fq9Kp5zRqVx1sTl8JnY": {
+            "name": "Casa de Praia com Vista para o Pôr do Sol",
+            "description": "Casa encantadora na praia com vista espetacular para o pôr do sol.",
+            "location": "Avenida da Praia, 789",
+            "price": 1100000.00,
+            "images": [
+                "https://images.pexels.com/photos/3051551/pexels-photo-3051551.jpeg",
+                "https://images.pexels.com/photos/261502/pexels-photo-261502.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "area": 200,
+                "amenities": ["piscina", "varanda", "área de lazer"]
+            },
+            "seller": {
+                "name": "Juliana Santos",
+                "contact": "+55 321 654 0987",
+                "email": "juliana.santos@example.com"
+            }
+        },
+        "-Ap8Yq4xSpVz5rQm7DmT": {
+            "name": "Apartamento no Centro Histórico",
+            "description": "Apartamento elegante no coração do centro histórico da cidade.",
+            "location": "Rua dos Antigos, 987",
+            "price": 850000.00,
+            "images": [
+                "https://images.pexels.com/photos/4906399/pexels-photo-4906399.jpeg",
+                "https://images.pexels.com/photos/4906401/pexels-photo-4906401.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 2,
+                "bathrooms": 2,
+                "area": 150,
+                "amenities": ["academia", "salão de festas", "segurança 24 horas"]
+            },
+            "seller": {
+                "name": "Bruno Oliveira",
+                "contact": "+55 456 789 0123",
+                "email": "bruno.oliveira@example.com"
+            }
+        },
+        "-Gt3Xp2wQmZ9sVy5EkNl": {
+            "name": "Casa com Piscina e Jardim",
+            "description": "Casa espaçosa com piscina e jardim bem cuidado.",
+            "location": "Rua das Flores, 753",
+            "price": 950000.00,
+            "images": [
+                "https://images.pexels.com/photos/8134746/pexels-photo-8134746.jpeg",
+                "https://images.pexels.com/photos/8134746/pexels-photo-8134746.jpeg"
+            ],
+            "specs": {
+                "bedrooms": 3,
+                "bathrooms": 3,
+                "area": 220,
+                "amenities": ["piscina", "jardim", "espaço gourmet"]
+            },
+            "seller": {
+                "name": "Mariana Santos",
+                "contact": "+55 012 345 6789",
+                "email": "mariana.santos@example.com"
+            }
+        }
+    }
+}
