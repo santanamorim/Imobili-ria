@@ -1,13 +1,13 @@
 import React from "react";
 import { useRoute } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import ProductDetailsScreen from "../components/ProductDetailsScreen";
-import ProductSpecificationsScreen from "../components/ProductSpecificationsScreen";
-import InfoSellerProduct from "../components/InfoSellerProduct";
+import ImovelDetailsScreen from "../components/ImovelDetailsScreen";
+import ImovelSpecificationsScreen from "../components/ImovelSpecificationsScreen";
+import InfoSellerImovel from "../components/InfoSellerImovel";
 
 const Tab = createBottomTabNavigator();
 
-const ProductDetail = () => {
+const ImovelDetail = () => {
   const route = useRoute();
   const { product } = route.params;
 
@@ -16,21 +16,21 @@ const ProductDetail = () => {
     <Tab.Navigator initialRouteName="Detalhes">
       <Tab.Screen
         name="Detalhes"
-        component={ProductDetailsScreen}
+        component={ImovelDetailsScreen}
         initialParams={{ product }}
       />
       <Tab.Screen
         name="Especificações"
-        component={ProductSpecificationsScreen}
+        component={ImovelSpecificationsScreen}
         initialParams={{ product }}
       />
       <Tab.Screen
         name="Vendedor"
-        component={InfoSellerProduct}
+        component={InfoSellerImovel}
         initialParams={{ product }}
       />
     </Tab.Navigator>
   );
 };
 
-export default ProductDetail;
+export default ImovelDetail;

@@ -1,80 +1,3 @@
-// import React from "react";
-// import { View, Text, StyleSheet } from "react-native";
-
-// const ProductSpecificationsScreen = ({ route }) => {
-//   const { product } = route.params;
-
-//   const renderSpecifications = () => {
-//     return Object.entries(product.technicalSpecifications).map(
-//       ([key, value], index) => (
-//         <View key={index} style={styles.specificationContainer}>
-//           <Text style={styles.specificationKey}>{key}:</Text>
-//           <Text style={styles.specificationValue}>{value}</Text>
-//         </View>
-//       )
-//     );
-//   };
-
-//   return (
-//     <View style={styles.container}>
-//       <Text style={styles.title}>Especificações Técnicas</Text>
-//       <Text style={styles.productName}>{product.name}</Text>
-//       <Text style={styles.productPrice}>Preço: {product.price}</Text>
-//       <View style={styles.specificationsContainer}>
-//         {renderSpecifications()}
-//       </View>
-//     </View>
-//   );
-// };
-
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     justifyContent: "center",
-//     alignItems: "center",
-//     paddingHorizontal: 20,
-//   },
-//   title: {
-//     fontSize: 20,
-//     fontWeight: "bold",
-//     marginBottom: 10,
-//   },
-//   productName: {
-//     fontSize: 24,
-//     fontWeight: "bold",
-//     marginBottom: 20,
-//   },
-//   specificationsContainer: {
-//     alignItems: "flex-start",
-//   },
-//   specificationContainer: {
-//     flexDirection: "row",
-//     marginBottom: 5,
-//   },
-//   specificationKey: {
-//     fontWeight: "bold",
-//     marginRight: 5,
-//   },
-//   specificationValue: {
-//     marginRight: 10,
-//   },
-//   productPrice: {
-//     fontSize: 20,
-//     fontWeight: "bold",
-//     marginBottom: 20,
-//     color: "green",
-//   },
-// });
-
-// export default ProductSpecificationsScreen;
-
-
-
-
-
-
-
-
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
@@ -85,7 +8,7 @@ const ProductSpecificationsScreen = ({ route }) => {
     <View style={styles.container}>
       <Text style={styles.title}>Especificações Técnicas</Text>
       <Text style={styles.productName}>{product.name}</Text>
-      <Text style={styles.productPrice}>Preço: {product.price}</Text>
+      <Text style={styles.productPrice}>Preço: R$ {parseFloat(product.price).toFixed(2)}</Text>
       <View style={styles.specificationsContainer}>
         <View style={styles.specificationContainer}>
           <Text style={styles.specificationKey}>Quartos:</Text>
@@ -100,7 +23,7 @@ const ProductSpecificationsScreen = ({ route }) => {
           <Text style={styles.specificationValue}>{product.specs.area} m²</Text>
         </View>
         <View style={styles.specificationContainer}>
-          <Text style={styles.specificationKey}>Amenidades:</Text>
+          <Text style={styles.specificationKey}>Complementos:</Text>
           <Text style={styles.specificationValue}>{product.specs.amenities.join(", ")}</Text>
         </View>
       </View>

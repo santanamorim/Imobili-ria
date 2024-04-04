@@ -2,7 +2,7 @@ import React from "react";
 import { SafeAreaView } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { createDrawerNavigator } from "@react-navigation/drawer";
-import ProductListNavigation from "./src/components/ProductListNavigation";
+import ImovelListNavigation from "./src/components/ImovelListNavigation";
 import AboutPage from "./src/views/AboutPage";
 
 const Drawer = createDrawerNavigator();
@@ -32,9 +32,9 @@ const App = () => {
             options={{ title: "Home" }}
           />
           <Drawer.Screen
-            name="ProductListNavigation"
-            component={ProductListNavigation}
-            options={{ title: "Lista de Produtos" }}
+            name="ImovelListNavigation"
+            component={ImovelListNavigation}
+            options={{ title: "Lista de Imóveis" }}
           />
         </Drawer.Navigator>
       </SafeAreaView>

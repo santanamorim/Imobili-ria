@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
-const InfoSellerProduct = ({ route }) => {
+const InfoSellerImovel = ({ route }) => {
   const { product } = route.params;
 
   return (
@@ -48,4 +48,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default InfoSellerProduct;
+export default InfoSellerImovel;

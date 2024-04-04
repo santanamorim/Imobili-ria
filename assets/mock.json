@@ -4,7 +4,7 @@
             "name": "Apartamento com Vista para o Parque",
             "description": "Espaçoso apartamento de luxo com vista panorâmica para o Parque da Cidade.",
             "location": "Rua das Flores, 123",
-            "price": 1000000.00,
+            "price": "1000000",
             "images": [
                 "https://images.pexels.com/photos/6370164/pexels-photo-6370164.jpeg",
                 "https://images.pexels.com/photos/11986021/pexels-photo-11986021.jpeg"
@@ -25,7 +25,7 @@
             "name": "Casa Moderna com Estúdio de Arte",
             "description": "Casa contemporânea com estúdio de arte, ideal para artistas.",
             "location": "Avenida Central, 456",
-            "price": 750000.00,
+            "price": "750000",
             "images": [
                 "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg",
                 "https://images.pexels.com/photos/6899356/pexels-photo-6899356.jpeg"
@@ -46,7 +46,7 @@
             "name": "Terreno para Construção de Restaurante",
             "description": "Terreno espaçoso ideal para construção de restaurante na região central.",
             "location": "Rua dos Sabores, 789",
-            "price": 500000.00,
+            "price": "500000",
             "images": [
                 "https://images.pexels.com/photos/9666115/pexels-photo-9666115.jpeg",
                 "https://images.pexels.com/photos/2476399/pexels-photo-2476399.jpeg"
@@ -67,7 +67,7 @@
             "name": "Loja Comercial no Centro Cultural",
             "description": "Espaço comercial amplo e bem localizado no Centro Cultural.",
             "location": "Avenida das Artes, 987",
-            "price": 900000.00,
+            "price": "900000",
             "images": [
                 "https://images.pexels.com/photos/5212403/pexels-photo-5212403.jpeg",
                 "https://images.pexels.com/photos/5904418/pexels-photo-5904418.jpeg"
@@ -88,7 +88,7 @@
             "name": "Loft Urbano na Praça dos Artesãos",
             "description": "Loft contemporâneo em uma das áreas mais vibrantes da cidade.",
             "location": "Rua dos Artesãos, 456",
-            "price": 600000.00,
+            "price": "600000",
             "images": [
                 "https://images.pexels.com/photos/6045336/pexels-photo-6045336.jpeg",
                 "https://images.pexels.com/photos/2973323/pexels-photo-2973323.jpeg"
@@ -109,9 +109,9 @@
             "name": "Sobrado Histórico no Centro Histórico",
             "description": "Sobrado restaurado com detalhes históricos preservados.",
             "location": "Rua das Memórias, 321",
-            "price": 850000.00,
+            "price": "850000",
             "images": [
-                "https://images.pexels.com/photos/18109400/pexels-photo-18109400",
+                "https://images.pexels.com/photos/18109400/pexels-photo-18109400.jpeg",
                 "https://images.pexels.com/photos/417344/pexels-photo-417344.jpeg"
             ],
             "specs": {
@@ -130,7 +130,7 @@
             "name": "Cobertura de Luxo com Vista para o Rio",
             "description": "Cobertura luxuosa com vista panorâmica para o rio e a cidade.",
             "location": "Avenida das Águas, 741",
-            "price": 1500000.00,
+            "price": "1500000",
             "images": [
                 "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg",
                 "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg"
@@ -151,7 +151,7 @@
             "name": "Apartamento com Vista para o Mar",
             "description": "Apartamento moderno com vista deslumbrante para o mar.",
             "location": "Avenida Beira-Mar, 1234",
-            "price": 1200000.00,
+            "price": "1200000",
             "images": [
                 "https://images.pexels.com/photos/6775268/pexels-photo-6775268.jpeg",
                 "https://images.pexels.com/photos/2347356/pexels-photo-2347356.jpeg"
@@ -172,7 +172,7 @@
             "name": "Casa de Campo com Piscina",
             "description": "Casa espaçosa em uma área rural com piscina privativa.",
             "location": "Estrada dos Sonhos, s/n",
-            "price": 900000.00,
+            "price": "900000",
             "images": [
                 "https://images.pexels.com/photos/6129989/pexels-photo-6129989.jpeg",
                 "https://images.pexels.com/photos/6129987/pexels-photo-6129987.jpeg"
@@ -193,7 +193,7 @@
             "name": "Casa de Praia com Vista para o Pôr do Sol",
             "description": "Casa encantadora na praia com vista espetacular para o pôr do sol.",
             "location": "Avenida da Praia, 789",
-            "price": 1100000.00,
+            "price": "1100000",
             "images": [
                 "https://images.pexels.com/photos/3051551/pexels-photo-3051551.jpeg",
                 "https://images.pexels.com/photos/261502/pexels-photo-261502.jpeg"
@@ -214,7 +214,7 @@
             "name": "Apartamento no Centro Histórico",
             "description": "Apartamento elegante no coração do centro histórico da cidade.",
             "location": "Rua dos Antigos, 987",
-            "price": 850000.00,
+            "price": "850000",
             "images": [
                 "https://images.pexels.com/photos/4906399/pexels-photo-4906399.jpeg",
                 "https://images.pexels.com/photos/4906401/pexels-photo-4906401.jpeg"
@@ -235,7 +235,7 @@
             "name": "Casa com Piscina e Jardim",
             "description": "Casa espaçosa com piscina e jardim bem cuidado.",
             "location": "Rua das Flores, 753",
-            "price": 950000.00,
+            "price": "950000",
             "images": [
                 "https://images.pexels.com/photos/8134746/pexels-photo-8134746.jpeg",
                 "https://images.pexels.com/photos/8134746/pexels-photo-8134746.jpeg"
