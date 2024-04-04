@@ -4,6 +4,8 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import ImovelDetailsScreen from "../components/ImovelDetailsScreen";
 import ImovelSpecificationsScreen from "../components/ImovelSpecificationsScreen";
 import InfoSellerImovel from "../components/InfoSellerImovel";
+import CommentsProduct from "../components/CommentsProduct";
+import ProductDoubts from "../components/ProductDoubts";
 
 const Tab = createBottomTabNavigator();
 
@@ -11,7 +13,6 @@ const ImovelDetail = () => {
   const route = useRoute();
   const { product } = route.params;
 
-  console.log(product);
   return (
     <Tab.Navigator initialRouteName="Detalhes">
       <Tab.Screen
@@ -27,6 +28,16 @@ const ImovelDetail = () => {
       <Tab.Screen
         name="Vendedor"
         component={InfoSellerImovel}
+        initialParams={{ product }}
+      />
+      <Tab.Screen
+        name="Comentários"
+        component={CommentsProduct}
+        initialParams={{ product }}
+      />
+      <Tab.Screen
+        name="Dúvidas"
+        component={ProductDoubts}
         initialParams={{ product }}
       />
     </Tab.Navigator>

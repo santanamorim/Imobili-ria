@@ -19,6 +19,18 @@
                 "name": "João Silva",
                 "contact": "+55 123 456 7890",
                 "email": "joao.silva@example.com"
+            },
+            "comments": {
+                "name": "Maria",
+                "date": "2024-03-25",
+                "comment": "A vista é realmente incrível!",
+                "rating": "5"
+            },
+            "doubts": {
+                "user": "Pedro",
+                "date": "2024-03-28",
+                "question": "A academia é bem equipada?",
+                "answer": "Sim, a academia possui equipamentos modernos."
             }
         },
         "-Lz9o2q6Rpnv7YsWUDjf": {
@@ -40,6 +52,18 @@
                 "name": "Maria Oliveira",
                 "contact": "+55 987 654 3210",
                 "email": "maria.oliveira@example.com"
+            },
+            "comments": {
+                "name": "Lucas",
+                "date": "2024-03-20",
+                "comment": "O estúdio de arte é perfeito para minha necessidade!",
+                "rating": "4"
+            },
+            "doubts": {
+                "user": "Ana",
+                "date": "2024-03-22",
+                "question": "A casa possui sistema de segurança?",
+                "answer": "Sim, a casa possui sistema de segurança completo."
             }
         },
         "-Kp4w1n8gVz2rUoD9BqE": {
@@ -61,6 +85,18 @@
                 "name": "Pedro Santos",
                 "contact": "+55 321 654 0987",
                 "email": "pedro.santos@example.com"
+            },
+            "comments": {
+                "name": "Fernando",
+                "date": "2024-03-15",
+                "comment": "Excelente localização para o restaurante!",
+                "rating": "5"
+            },
+            "doubts": {
+                "user": "Roberto",
+                "date": "2024-03-18",
+                "question": "Qual o tamanho do terreno?",
+                "answer": "O terreno possui 500m²."
             }
         },
         "-Jh7Tc5zPqVx9AfG3LnR": {
@@ -82,6 +118,18 @@
                 "name": "Ana Santos",
                 "contact": "+55 456 789 0123",
                 "email": "ana.santos@example.com"
+            },
+            "comments": {
+                "name": "Paula",
+                "date": "2024-03-10",
+                "comment": "Ótima estrutura para o meu negócio!",
+                "rating": "4"
+            },
+            "doubts": {
+                "user": "Gabriel",
+                "date": "2024-03-12",
+                "question": "A loja possui estacionamento?",
+                "answer": "Sim, a loja possui estacionamento próprio."
             }
         },
         "-Gr2Lx9pQaZ6sVtK8HmY": {
@@ -103,6 +151,18 @@
                 "name": "Carlos Silva",
                 "contact": "+55 789 012 3456",
                 "email": "carlos.silva@example.com"
+            },
+            "comments": {
+                "name": "Rafael",
+                "date": "2024-03-05",
+                "comment": "Adorei o design moderno do loft!",
+                "rating": "5"
+            },
+            "doubts": {
+                "user": "Mariana",
+                "date": "2024-03-08",
+                "question": "O loft possui área de lazer?",
+                "answer": "Sim, o loft possui área de lazer comum."
             }
         },
         "-Fb0Zk7sPwY3xQmV6JpN": {
@@ -124,6 +184,18 @@
                 "name": "Fernanda Oliveira",
                 "contact": "+55 012 345 6789",
                 "email": "fernanda.oliveira@example.com"
+            },
+            "comments": {
+                "name": "Roberto",
+                "date": "2024-02-28",
+                "comment": "A restauração ficou incrível!",
+                "rating": "5"
+            },
+            "doubts": {
+                "user": "Sandra",
+                "date": "2024-03-03",
+                "question": "A casa possui sistema de aquecimento?",
+                "answer": "Sim, a casa possui sistema de aquecimento central."
             }
         },
         "-Dt5Rp4qOxZ8lNmW2SqE": {
@@ -145,6 +217,18 @@
                 "name": "Gabriel Santos",
                 "contact": "+55 789 012 3456",
                 "email": "gabriel.santos@example.com"
+            },
+            "comments": {
+                "name": "Carla",
+                "date": "2024-02-20",
+                "comment": "As vistas da cobertura são de tirar o fôlego!",
+                "rating": "5"
+            },
+            "doubts": {
+                "user": "Ricardo",
+                "date": "2024-02-25",
+                "question": "A cobertura possui acesso privativo?",
+                "answer": "Sim, a cobertura possui acesso privativo."
             }
         },
         "-Dp7Rq2pAwY4xQmV5JlN": {
@@ -166,6 +250,18 @@
                 "name": "Lucas Oliveira",
                 "contact": "+55 123 456 7890",
                 "email": "lucas.oliveira@example.com"
+            },
+            "comments": {
+                "name": "Fernanda",
+                "date": "2024-02-15",
+                "comment": "O apartamento é incrível, especialmente o nascer do sol!",
+                "rating": "4"
+            },
+            "doubts": {
+                "user": "Jorge",
+                "date": "2024-02-18",
+                "question": "A quadra de tênis é compartilhada?",
+                "answer": "Sim, a quadra de tênis é compartilhada com outros moradores."
             }
         },
         "-Ep6Zx1tPqVz5sQo7KmY": {
@@ -187,6 +283,18 @@
                 "name": "Paulo Silva",
                 "contact": "+55 987 654 3210",
                 "email": "paulo.silva@example.com"
+            },
+            "comments": {
+                "name": "Camila",
+                "date": "2024-02-10",
+                "comment": "A casa é perfeita para um retiro tranquilo!",
+                "rating": "4"
+            },
+            "doubts": {
+                "user": "Luisa",
+                "date": "2024-02-12",
+                "question": "O jardim é bem cuidado?",
+                "answer": "Sim, o jardim é bem cuidado regularmente."
             }
         },
         "-Fq9Kp5zRqVx1sTl8JnY": {
@@ -208,6 +316,18 @@
                 "name": "Juliana Santos",
                 "contact": "+55 321 654 0987",
                 "email": "juliana.santos@example.com"
+            },
+            "comments": {
+                "name": "Pedro",
+                "date": "2024-01-28",
+                "comment": "O pôr do sol é simplesmente mágico!",
+                "rating": "5"
+            },
+            "doubts": {
+                "user": "Mariana",
+                "date": "2024-02-01",
+                "question": "A casa possui acesso direto à praia?",
+                "answer": "Sim, a casa possui acesso direto à praia."
             }
         },
         "-Ap8Yq4xSpVz5rQm7DmT": {
@@ -229,6 +349,18 @@
                 "name": "Bruno Oliveira",
                 "contact": "+55 456 789 0123",
                 "email": "bruno.oliveira@example.com"
+            },
+            "comments": {
+                "name": "Sandra",
+                "date": "2024-01-20",
+                "comment": "A localização é perfeita!",
+                "rating": "4"
+            },
+            "doubts": {
+                "user": "Ricardo",
+                "date": "2024-01-25",
+                "question": "O apartamento possui vaga de garagem?",
+                "answer": "Sim, o apartamento possui uma vaga de garagem."
             }
         },
         "-Gt3Xp2wQmZ9sVy5EkNl": {
@@ -250,6 +382,18 @@
                 "name": "Mariana Santos",
                 "contact": "+55 012 345 6789",
                 "email": "mariana.santos@example.com"
+            },
+            "comments": {
+                "name": "Fábio",
+                "date": "2024-01-15",
+                "comment": "O jardim é perfeito para relaxar!",
+                "rating": "4"
+            },
+            "doubts": {
+                "user": "Lucas",
+                "date": "2024-01-18",
+                "question": "A casa possui área de churrasco?",
+                "answer": "Sim, a casa possui uma área de churrasco no jardim."
             }
         }
     }
